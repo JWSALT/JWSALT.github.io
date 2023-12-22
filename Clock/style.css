@@ -23,7 +23,7 @@ html {
   .circle {
     display: block;
     margin: auto;
-    background-image: "Mountains.png";
+    background-image: url("Mountains.png");
     background-size: cover;
     width: 200px;
     height: 200px;
