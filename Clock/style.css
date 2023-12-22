@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+    width: 100%;  
+    text-align: center;
+  }
+  
+  .white-text {
+    font-family: 'REM', sans-serif;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  #time {
+    font-size: 50px;
+    line-height: 120px;
+  }
+  
+  #day {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  
+  .circle {
+    display: block;
+    margin: auto;
+    background-image: url(https://environmentamerica.org/wp-content/uploads/2023/05/Flat-Country-credit-Cascadia-Wildlands-DSC_4323.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    border-style: dotted;
+    border-radius: 50%;
+    border-color: #ffffff;
+    border-width: 5px;
+  }
+  
